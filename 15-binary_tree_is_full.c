@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- *binary_tree_if_full - chekc if a binary tree is full
+ *binary_tree_is_full - chekc if a binary tree is full
  *@tree: the pointer to the root
  *Return: the leaves of the binary tree
  */
